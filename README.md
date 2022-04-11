@@ -1,2 +1,1 @@
-When I first started to learn python
-##The very basics
+When I first started to learn the very basics of python
