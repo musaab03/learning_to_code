@@ -1,0 +1,11 @@
+E:\Desktop\My Folder\Projects\Learning New Programming Languages\C#\ChallengeSln\ChallengeSln\bin\Debug\netcoreapp3.1\ChallengeSln.exe
+E:\Desktop\My Folder\Projects\Learning New Programming Languages\C#\ChallengeSln\ChallengeSln\bin\Debug\netcoreapp3.1\ChallengeSln.deps.json
+E:\Desktop\My Folder\Projects\Learning New Programming Languages\C#\ChallengeSln\ChallengeSln\bin\Debug\netcoreapp3.1\ChallengeSln.runtimeconfig.json
+E:\Desktop\My Folder\Projects\Learning New Programming Languages\C#\ChallengeSln\ChallengeSln\bin\Debug\netcoreapp3.1\ChallengeSln.runtimeconfig.dev.json
+E:\Desktop\My Folder\Projects\Learning New Programming Languages\C#\ChallengeSln\ChallengeSln\bin\Debug\netcoreapp3.1\ChallengeSln.dll
+E:\Desktop\My Folder\Projects\Learning New Programming Languages\C#\ChallengeSln\ChallengeSln\bin\Debug\netcoreapp3.1\ChallengeSln.pdb
+E:\Desktop\My Folder\Projects\Learning New Programming Languages\C#\ChallengeSln\ChallengeSln\obj\Debug\netcoreapp3.1\ChallengeSln.csprojAssemblyReference.cache
+E:\Desktop\My Folder\Projects\Learning New Programming Languages\C#\ChallengeSln\ChallengeSln\obj\Debug\netcoreapp3.1\ChallengeSln.AssemblyInfoInputs.cache
+E:\Desktop\My Folder\Projects\Learning New Programming Languages\C#\ChallengeSln\ChallengeSln\obj\Debug\netcoreapp3.1\ChallengeSln.AssemblyInfo.cs
+E:\Desktop\My Folder\Projects\Learning New Programming Languages\C#\ChallengeSln\ChallengeSln\obj\Debug\netcoreapp3.1\ChallengeSln.dll
+E:\Desktop\My Folder\Projects\Learning New Programming Languages\C#\ChallengeSln\ChallengeSln\obj\Debug\netcoreapp3.1\ChallengeSln.pdb
